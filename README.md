@@ -30,3 +30,10 @@ Using Technical Requirements:
 Pandas
  RASA NLU [NLP].
 
+## Usage
+
+The given training set consists of data from 32 images and we determine feature vectors etc from training set,
+hence only recognition part has to be run daily.
+
+* Run the code `disaster_df.py`
+
