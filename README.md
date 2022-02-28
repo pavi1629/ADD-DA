@@ -21,7 +21,8 @@ estimated and the different attributes can also be taken
 up from the news sites. We propose to use NLP based
 methods to extract attributes like type of the disaster,
 place of the disaster and name of the disaster.
-Using Technical Requirements:
+
+## Using Technical Requirements:
 
  python based development,
  web scrapping - libraries
@@ -30,10 +31,5 @@ Using Technical Requirements:
 Pandas
  RASA NLU [NLP].
 
-## Usage
 
-The given training set consists of data from 32 images and we determine feature vectors etc from training set,
-hence only recognition part has to be run daily.
-
-* Run the code `disaster_df.py`
 
